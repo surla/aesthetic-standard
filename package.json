@@ -6,7 +6,12 @@
   "dependencies": {
     "gatsby": "^1.9.127",
     "gatsby-link": "^1.6.30",
-    "gatsby-plugin-react-helmet": "^1.0.8"
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-typography": "^1.7.10",
+    "typography": "^0.16.6",
+    "typography-theme-bootstrap": "^0.16.7",
+    "typography-theme-lawton": "^0.15.10",
+    "typography-theme-stern-grove": "^0.15.10"
   },
   "keywords": [
     "gatsby"
